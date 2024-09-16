@@ -25,7 +25,6 @@
         "siteUrl": "https://www.wogg.net/",
         "danMu": "弹"
       }
-
     {
       "key": "YGP",
       "name": "🚀叨观荐影┃新片",
@@ -43,7 +42,7 @@
             "playerType": 1,
             "ext": "caHR0cDovL3YucmJvdHYuY24="
         },
-{
+  {
       "key": "alllive",
       "name": "📽️一直播┃LIVE",
       "type": 3,
