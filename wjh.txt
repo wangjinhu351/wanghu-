@@ -35,6 +35,18 @@
       "quickSearch": 0,
       "changeable": 0
     },
+   {
+      "key": "Aid",
+      "name": "🚑急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
     {
       "key": "alllive",
       "name": "📽️一直播┃LIVE",
@@ -411,18 +423,7 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {
-      "key": "Aid",
-      "name": "🚑急救┃教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      }
+ 
     },
     {
       "key": "夸搜",
