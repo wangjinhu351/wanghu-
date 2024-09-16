@@ -11,7 +11,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    },
     {
       "key": "YGP",
       "name": "🚀叨观荐影┃新片",
