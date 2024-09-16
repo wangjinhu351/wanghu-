@@ -36,7 +36,7 @@
         },
         {
             "key": "热播",
-            "name": "王錿热播┃App",
+            "name": "王錿热播",
             "type": 3,
             "api": "csp_Rebot",
             "playerType": 1,
@@ -44,7 +44,7 @@
         },
         {
             "key": "追剧",
-            "name": "王錿追剧┃App",
+            "name": "王錿追剧",
             "type": 3,
             "api": "csp_TTian",
             "playerType": 1,
