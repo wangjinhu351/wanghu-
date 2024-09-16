@@ -17,7 +17,7 @@
     "sites": [
         {
             "key": "南瓜",
-            "name": "南瓜┃App",
+            "name": "无止境的风┃App",
             "type": 3,
             "api": "csp_NanGua",
             "searchable": 1,
@@ -28,7 +28,7 @@
         },
         {
             "key": "天天",
-            "name": "天天┃App",
+            "name": "王錿影视",
             "type": 3,
             "api": "csp_TTian",
             "playerType": 1,
@@ -36,7 +36,7 @@
         },
         {
             "key": "热播",
-            "name": "热播┃App",
+            "name": "王錿热播┃App",
             "type": 3,
             "api": "csp_Rebot",
             "playerType": 1,
@@ -44,7 +44,7 @@
         },
         {
             "key": "追剧",
-            "name": "追剧┃App",
+            "name": "王錿追剧┃App",
             "type": 3,
             "api": "csp_TTian",
             "playerType": 1,
