@@ -12,7 +12,7 @@
       "filterable": 0
     },
     {
-      "key": "玩偶",
+      "key": "王錿",
       "name": "👽無止境的风┃4K弹幕",
       "type": 3,
       "api": "csp_WoGG",
@@ -576,7 +576,7 @@
     },
     {
       "key": "fan",
-      "name": "导航 www.饭太硬.com",
+      "name": ""無止境的风",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
