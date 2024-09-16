@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "微信【無止境的风】",
+      "name": "微信无止境的风",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
