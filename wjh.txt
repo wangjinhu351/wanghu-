@@ -11,14 +11,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-        {
-            "key": "热播",
-            "name": "热播┃App",
-            "type": 3,
-            "api": "csp_Rebot",
-            "playerType": 1,
-            "ext": "caHR0cDovL3YucmJvdHYuY24="
-        },
     {
       "key": "玩偶",
       "name": "👽玩偶┃4K弹幕",
