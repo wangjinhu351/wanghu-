@@ -76,7 +76,7 @@
         },
         {
              "key": "NoSearch_csp_BBB",
-            "name": "哔哩哔哩",
+            "name": "無止境的風┃哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
