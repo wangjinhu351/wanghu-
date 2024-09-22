@@ -75,11 +75,14 @@
             "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTJ8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
         },
         {
-            "key": "雷电",
-            "name": "無止境的風┃雷电",
+             "key": "NoSearch_csp_BBB",
+            "name": "哔哩哔哩",
             "type": 3,
-            "api": "csp_Slys",
-            "playerType": 1
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "naHR0cHM6Ly93d3cucWlhb2ppOC5jb20vdHZib3gvYmlsaS5qc29u"
         },
         {
             "key": "柠檬",
@@ -260,14 +263,12 @@
             "filterable": 1
         },
         {
-            "key": "NoSearch_csp_BBB",
-            "name": "哔哩哔哩",
+  "key": "雷电",
+            "name": "雷电┃App",
             "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "naHR0cHM6Ly93d3cucWlhb2ppOC5jb20vdHZib3gvYmlsaS5qc29u"
+            "api": "csp_Slys",
+            "playerType": 1
+
         },
         {
             "key": "push_agent",
