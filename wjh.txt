@@ -17,7 +17,7 @@
     "sites": [
         {
             "key": "南瓜",
-            "name": "无止境的风┃App",
+            "name": "無止境的風┃南瓜",
             "type": 3,
             "api": "csp_NanGua",
             "searchable": 1,
@@ -28,7 +28,7 @@
         },
         {
             "key": "天天",
-            "name": "王錿影视",
+            "name": "無止境的風┃天天",
             "type": 3,
             "api": "csp_TTian",
             "playerType": 1,
@@ -36,7 +36,7 @@
         },
         {
             "key": "热播",
-            "name": "王錿热播",
+            "name": "無止境的風┃热播",
             "type": 3,
             "api": "csp_Rebot",
             "playerType": 1,
@@ -44,7 +44,7 @@
         },
         {
             "key": "追剧",
-            "name": "王錿追剧",
+            "name": "無止境的風┃追剧",
             "type": 3,
             "api": "csp_TTian",
             "playerType": 1,
@@ -52,7 +52,7 @@
         },
         {
             "key": "现代",
-            "name": "现代┃App",
+            "name": "無止境的風┃现代",
             "type": 3,
             "api": "csp_Xdai",
             "playerType": 1,
@@ -60,7 +60,7 @@
         },
         {
             "key": "木叶",
-            "name": "木叶┃App",
+            "name": "無止境的風┃木叶",
             "type": 3,
             "api": "csp_Muye",
             "playerType": 1,
@@ -68,7 +68,7 @@
         },
         {
             "key": "繁荣",
-            "name": "繁荣┃App",
+            "name": "無止境的風┃繁荣",
             "type": 3,
             "api": "csp_Frong",
             "playerType": 1,
@@ -76,14 +76,14 @@
         },
         {
             "key": "雷电",
-            "name": "雷电┃App",
+            "name": "無止境的風┃雷电",
             "type": 3,
             "api": "csp_Slys",
             "playerType": 1
         },
         {
             "key": "柠檬",
-            "name": "柠檬┃App",
+            "name": "無止境的風┃柠檬",
             "type": 3,
             "api": "csp_Nmvod",
             "playerType": 1,
@@ -137,7 +137,7 @@
         },
         {
             "key": "蚂蚁",
-            "name": "蚂蚁┃App",
+            "name": "無止境的風┃蚂蚁",
             "type": 3,
             "api": "csp_Mayiys",
             "searchable": 1,
@@ -148,7 +148,7 @@
         },
         {
             "key": "看看",
-            "name": "看看┃App",
+            "name": "無止境的風┃看看",
             "type": 3,
             "api": "csp_KanKan",
             "searchable": 1,
@@ -167,7 +167,7 @@
         },
         {
             "key": "时常",
-            "name": "时常┃APP",
+            "name": "無止境的風┃时常",
             "type": 3,
             "api": "csp_qiao3",
             "searchable": 1,
@@ -271,7 +271,7 @@
         },
         {
             "key": "push_agent",
-            "name": "推送",
+            "name": "無止境的風 推送",
             "type": 3,
             "api": "csp_PushAgent",
             "searchable": 0,
